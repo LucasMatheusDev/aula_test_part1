@@ -1,8 +1,5 @@
 # aula_teste_ui_part1
-
-A new Flutter project.
-
-## Getting Started
+  ## Será que você é capaz de resolver esses desafios ?
 
 # Desafios da aula
         //! ESTE COMANDO  ESCREVE UM TEXTO no widget selecionado - tester.enterText()
