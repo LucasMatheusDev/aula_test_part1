@@ -1,8 +1,8 @@
 # aula_teste_ui_part1
-  ## Será que você é capaz de resolver esses desafios ?
+  ## Are you able to solve these challenges?
 
 # Desafios da aula
-        //! ESTE COMANDO  ESCREVE UM TEXTO no widget selecionado - tester.enterText()
-        //! ESTE COMANDO SIMULA UM CLICK - tester.tap()
-        //! ESTE COMANDO ATUALIZA A TELA - await tester.pump()
-        //! ESTE COMANDO VERIFICA SE CONTÉM O TEXTO NA TELA - find.textContaining()
+        //! THIS COMMAND WRITES A TEXT in the selected widget - tester.enterText()
+        //! THIS COMMAND SIMULATES A CLICK - tester.tap()
+        //! THIS COMMAND SIMULATES A CLICK- await tester.pump()
+        //! THIS COMMAND CHECKS IF IT CONTAINS THE TEXT ON THE SCREEN - find.textContaining()
